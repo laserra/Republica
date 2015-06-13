@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!--                     1880                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1880.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/10junho1880.jpg</imagem>
+		<width>209</width>
+		<data>10 de Junho</data>
+		<descr>Celebração da morte de Luís de Camões.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1882                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1882.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/8maio1882.jpg</imagem>
+		<width>209</width>
+		<data>8 de Maio</data>
+		<descr>O republicanismo tentou apoderar-se das comemorações do Marquês de Pombal, mas a monarquia frusta em parte os planos dos republicanos.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1891                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1891.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/31janeiro1891.jpg</imagem>
+		<width>209</width>
+		<data>31 de Janeiro</data>
+		<descr>A primeira revolta militar destinada a derrubar a monarquia e implantar a República é desencadeada no Porto mas fracassa.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/16fevereiro1891.jpg</imagem>
+		<width>209</width>
+		<data>16 de Fevereiro</data>
+		<descr>Conclui-se o auto de corpo do delito contra os participantes militares do movimento revolucionário</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/20fevereiro1891.jpg</imagem>
+		<width>209</width>
+		<data>20 de Fevereiro</data>
+		<descr>Publica-se legislação visando reforçar a vigilância policial e evitar tumúltos públicos. A liberdade de reunião vê-se bastante reuzida.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/23marco1891.jpg</imagem>
+		<width>209</width>
+		<data>23 de Março</data>
+		<descr>Tribunal publica sentença condenando os revoltosos republicanos de 31 de Janeiro de 1891.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/5abril1891.jpg</imagem>
+		<width>209</width>
+		<data>5 de Abril</data>
+		<descr>Manifestação no Porto reclamando o perdão para os revoltosos de 31 de Janeiro de 1891.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/12abril1891.jpg</imagem>
+		<width>209</width>
+		<data>12 de Abril</data>
+		<descr>Manifesto dos emigrados da revolução de 31 de Janeiro de 1891 no Porto, subscrito pelos revoltosos exilados em Madrid, redigido por Sampaio Bruno.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1896                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1896.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1896_1.jpg</imagem>
+		<width>148</width>
+		<data></data>
+		<descr>Artur Duarte Luz de Almeida funda a última Carbonária portuguesa que viria a ter um papel importante a 5 de Outubro de 1910.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1902                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1902.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/22marco1902.jpg</imagem>
+		<width>209</width>
+		<data>22 de Março</data>
+		<descr>Bernardino Machado profere uma conferência no Grémio Comercial do Porto de cariz totalmente republicana.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1905                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1905.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1905_1.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>O presidente francês Emile Loubet visita Lisboa. Os republicanos aproveitam para organizar manifestações a favor da República.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1905_2.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>O país em pé de guerra por causa da "questão dos tabacos". Ressurgimento do Partido Republicano Português.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1906                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1906.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1906_1.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>O rei D. Carlos encarrega João Franco de formar governo. João Franco convence o monarca a dissolver a Assembleia sem convocar eleições. Franco passa a governar em ditadura.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1907                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1907.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_1.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>O descontamento popular aumenta e João Franco manda prender conhecidos opositores republicanos.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_2.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>É dissolvida a Câmara dos Deputados</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_3.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Manifestações, greves e tumultos estudantis em Coimbra chegam a durar um mês. Tumultos parlamentares, João Franco encerra as Cortes.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_4.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Publicação de uma dura Lei de Imprensa.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_5.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Greves operárias em Setúbal, Covilhã e Porto. Nasce a Federação Geral do Trabalho, de orientação anarco-sindicalista.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_6.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Numa entevista dada a um Jornal parisiense o rei D. Carlos afirma que "Portugal é uma choldra". Esta e outras afirmações causaram um escândalo em todo o país.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_7.jpg</imagem>
+		<width>156</width>
+		<data></data>
+		<descr>O revolucionário Aquilino Ribeiro é preso depois de estar implicado numa segunda explosão de bomba.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_8.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>João Franco, de visita ao Porto, é alvo de uma onda de protestos e confrontos entre agentes da autoridade e populares, com registo de mortos e feridos. Ao chegar a Lisboa é também recebido por manifestações hostis.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_9.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Decreto de João Franco determina a liquidação dos adiantamentos à Casa Real.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_10.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Introduzida a lei de censura à Imprensa.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1907_11.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Onda de protestos, greves e tumultos varre o país. Prendem-se republicanos e dissolve-se a Cãmara dos Deputados.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/19novembro1907.jpg</imagem>
+		<width>195</width>
+		<data>19 de Novembro</data>
+		<descr>Magalhães Lima profere uma palestra na Loja Maçónica Cosmos, de Paris, sob o título "Portugal, necessidade de um regime republicano".</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1908                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1908.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1908_1.jpg</imagem>
+		<width>167</width>
+		<data></data>
+		<descr>Acusados de participação antimonárquica, são detidos os jornalistas João Chagas e França Borges.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/28janeiro1908.jpg</imagem>
+		<width>209</width>
+		<data>28 de Janeiro</data>
+		<descr>Falha em Lisboa uma tentativa revolucionária que ficará conhecida por "Conspiração da Biblioteca". São presos vários líderes republicanos entre os 93 conspiradores.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/31janeiro1908.jpg</imagem>
+		<width>209</width>
+		<data>31 de Janeiro</data>
+		<descr>D. Carlos assina em Vila Viçosa o decreto que permitiria deportar conspiradores para o Ultramar.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1fevereiro1908.jpg</imagem>
+		<width>209</width>
+		<data>1 de Fevereiro</data>
+		<descr>O rei D. Carlos e o príncipe herdeiro Luís Filipe são assassinados por Manuel Buiça e Alfredo Costa, no Terreiro do Paço depois de desembarcarem no barco do Barreiro. É aclamado rei D. Manuel II.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/4fevereiro1908.jpg</imagem>
+		<width>209</width>
+		<data>4 de Fevereiro</data>
+		<descr>É empossado um governo de coligação de progressistas e regeneradores, presidido pelo almirante Ferreira do Amaral.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1908_2.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>O novo rei, D. Manuel II, patrocina o "Governo de Acalmação" de Ferreira do Amaral.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/28novembro1908.jpg</imagem>
+		<width>209</width>
+		<data>28 de Novembro</data>
+		<descr>Nas eleições municipais os republicanos ganham a importante câmara municipal de Lisboa. O PRP ganha outros municípios no Ribatejo, Alentejo e Algarve.</descr>
+		<link>#</link>
+	</evento>
+	
+	<!--                     1909                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1909.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/2425abril1909.jpg</imagem>
+		<width>209</width>
+		<data>24 a 25 de Abril</data>
+		<descr>Congresso do Partido Republicano Português (PRP) em Setúbal.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/28novembro1909.jpg</imagem>
+		<width>209</width>
+		<data>28 de Novembro</data>
+		<descr>Nas eleições autárquicas são eleitas 122 juntas de freguesias republicanas. Cada vez Portugal é, como dissera o rei D. Carlos, "uma monarquia sem monárquicos".</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/3julho1909.jpg</imagem>
+		<width>209</width>
+		<data>3 de Julho</data>
+		<descr>Comício republicano, em Lisboa, presidido por Teófilo Braga.</descr>
+		<link>#</link>
+	</evento>
+	
+	
+	<!--                     1910                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1910.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/2930abril1910.jpg</imagem>
+		<width>209</width>
+		<data>29 e 30 de Abril</data>
+		<descr>Reúne no Porto o Congresso Repúblicano. O tema mais debatido é a aceitação ou não pela Inglaterra de uma revolução em Portugal. É eleita uma comissão para sondar potências europeias sobre a aceitação e reconhecimento da República.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/14junho1910.jpg</imagem>
+		<width>160</width>
+		<data>14 de Junho</data>
+		<descr>A Maçonaria decide colaborar mais activamente com a Carbonária na luta pela implantação da República. </descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/28agosto1910.jpg</imagem>
+		<width>209</width>
+		<data>28 de Agosto</data>
+		<descr>Nas eleições para o Parlamento o PRP consegue eleger 14 deputados</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/3outubro1910.jpg</imagem>
+		<width>209</width>
+		<data>3 de Outubro</data>
+		<descr>Os dirigentes revolucionários republicanos assentam em pôr o movimento na rua. O presidente do Ministério, Teixeira de Sousa pelas 19h30 informa o rei e a sua mãe que a revolução iria rebentar.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/4outubro1910.jpg</imagem>
+		<width>209</width>
+		<data>4 de Outubro</data>
+		<descr>Os dirigentes máximos da revolução concentram-se nos banhos de São Paulo. Os cruzadores Adamastor e São Rafael, com tripulações republicanas, bombardeiam o palácio das Necessidades e o Rossio.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/1910_1.jpg</imagem>
+		<width>209</width>
+		<data></data>
+		<descr>Revolução tem inicio em Lisboa. Família Real foge para Gibraltar.</descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/5outubro1910.jpg</imagem>
+		<width>126</width>
+		<data>5 de Outubro</data>
+		<descr>Terminados os combates, José Relvas e Eusébio Leão proclamam a República.</descr>
+		<link>#</link>
+	</evento>
+	
+	
+	<!--                     1911                                       -->
+	<evento>
+		<separador>1</separador>
+		<imagem>flash/crono_images/1911.png</imagem>
+		<width>106</width>
+		<data></data>
+		<descr></descr>
+		<link>#</link>
+	</evento>
+	<evento>
+		<separador>0</separador>
+		<imagem>flash/crono_images/24agosto1911.jpg</imagem>
+		<width>133</width>
+		<data>24 de Agosto</data>
+		<descr>Manuel de Arriaga é proclamado primeiro presidente da República.</descr>
+		<link>#</link>
+	</evento>
+</data>

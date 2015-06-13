@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artigo>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/figuras_joserelvas_img1.jpg</imagem>
+		<descr>Retrato de José Relvas</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/figuras_joserelvas_img2.jpg</imagem>
+		<descr>José Relvas na proclamação da República</descr>
+		<creditos></creditos>
+	</foto>
+
+</artigo>

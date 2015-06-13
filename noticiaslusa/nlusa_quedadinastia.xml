@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/queda_imperialista/ChinaSun_Yat_Sen_portrait.jpg</imagem>
+		<descr>Sun Yat Sen</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/queda_imperialista/ChinaSun_Yat_Sen_family.jpg</imagem>
+		<descr>Sun Yat Sen e a sua família</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

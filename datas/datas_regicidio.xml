@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artigo>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/regicidio_img2.jpg</imagem>
+		<descr>O assassinato</descr>
+		<creditos>Autor 1</creditos>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/regicidio_img1.png</imagem>
+		<descr>A Rainha D. Amélia fustiga os regicidas com um ramo de flores</descr>
+		<creditos>Autor 2</creditos>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/regicidio_img3.jpg</imagem>
+		<descr>Funeral do Rei e Príncipe</descr>
+		<creditos>Autor 3</creditos>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/regicidio_img4.jpg</imagem>
+		<descr>Funeral do Rei e Príncipe</descr>
+		<creditos>Autor 4</creditos>
+	</foto>
+</artigo>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<entry>
+		<id>1</id>
+		<type>1</type>
+		<file>img1.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Carro em carris</title>
+		<text>Carro em carris puxado a cavalos</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>2</id>
+		<type>1</type>
+		<file>img2.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Paragem</title>
+		<text>Aspecto das primeiras paragens dos carros em carris</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>3</id>
+		<type>1</type>
+		<file>img3.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Carro Frigorífico</title>
+		<text>A revolução nos transportes passou a permitir a entrega de bens pereciveis com mais rapidez</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>4</id>
+		<type>1</type>
+		<file>img4.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Carro reportagem</title>
+		<text>A imprensa adere também a revolução dos transportes</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>5</id>
+		<type>1</type>
+		<file>img5.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Transportes públicos</title>
+		<text>Surgem os primeiros sistemas de transporte público em Portugal</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>6</id>
+		<type>1</type>
+		<file>img6.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Desporto</title>
+		<text>Realizam-se corridas de automóveis</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>7</id>
+		<type>1</type>
+		<file>img7.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Desporto</title>
+		<text>Realizam-se corridas de automóveis</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>8</id>
+		<type>1</type>
+		<file>img8.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>transportes</location>
+		<title>Caminhos de Ferro</title>
+		<text>Dá-se um grande impulso na ampliação e modernização dos caminhos de ferro</text>
+		<link>2</link>
+	</entry>
+</data>

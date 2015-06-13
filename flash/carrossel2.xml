@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<evento>
+		<imagem>flash/imgs/musa.jpg</imagem>
+		<descr>A "Musa" da República</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_musa_republica.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/revolta31.jpg</imagem>
+		<descr>A Revolta</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_revolta_31Jan.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/maria_republica.jpg</imagem>
+		<descr>Maria República</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_maria_republica.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/cunho_ambiental.jpg</imagem>
+		<descr>Cunho Ambientalista</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_cunho_ambientalista.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/congr_setubal.jpg</imagem>
+		<descr>Congresso Setúbal</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_congresso_setubal.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/bissaya_barreto.jpg</imagem>
+		<descr>Bissaya Barreto</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_bissaya_barreto.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/sun_yat_sen.jpg</imagem>
+		<descr>Queda imperialista</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_queda_dinastia.php</link>
+	</evento>
+	<evento>
+		<imagem>flash/imgs/universidade_coimbra.jpg</imagem>
+		<descr>Universidade de Coimbra</descr>
+		<link>http://www.republica2010.com/noticiaslusa/nlusa_universidade_coimbra.php</link>
+	</evento>
+</data>

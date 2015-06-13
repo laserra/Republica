@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<entry>
+		<id>1</id>
+		<type>1</type>
+		<file>img1.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>igreja</location>
+		<title>Fátima</title>
+		<text>Os três pastorinhos</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>2</id>
+		<type>1</type>
+		<file>img2.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>igreja</location>
+		<title>Fátima</title>
+		<text>Aparição de Nossa Senhora</text>
+		<link>2</link>
+	</entry>
+</data>

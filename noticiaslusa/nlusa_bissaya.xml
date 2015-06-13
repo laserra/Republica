@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/bissaya/bissaya_img1.jpg</imagem>
+		<descr>Bissaya Barreto na Faculdade de Medicina de Coimbra, está em primeiro plano, á esquerda</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/bissaya/bissaya_img2.jpg</imagem>
+		<descr>Bissaya Barreto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/bissaya/bissaya_img4.jpg</imagem>
+		<descr>Bissaya Barreto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>5</idx>
+		<imagem>imagens/bissaya/bissaya_img5.jpg</imagem>
+		<descr>Bissaya Barreto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>6</idx>
+		<imagem>imagens/bissaya/bissaya_img6.jpg</imagem>
+		<descr>Casa Museu Bissaya Barreto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>7</idx>
+		<imagem>imagens/bissaya/bissaya_img7.jpg</imagem>
+		<descr>Estátua de Bissaya Barreto feita por Vasco Berardo, instalada no Portugal dos Pequenitos em 2000</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>8</idx>
+		<imagem>imagens/bissaya/bissaya_img8.jpg</imagem>
+		<descr>Logo Fundação Bissaya Barreto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

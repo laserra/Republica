@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/ambiente/ambiente_img1.jpg</imagem>
+		<descr>A Árvore Nacional</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/ambiente/ambiente_img2.jpg</imagem>
+		<descr>Associação Protectora da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/ambiente/ambiente_img3.jpg</imagem>
+		<descr>Associação Protectora da Árvore fundada em 1914</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/ambiente/ambiente_img4.jpg</imagem>
+		<descr>Conferência Educar - o Ensino na I República</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>5</idx>
+		<imagem>imagens/ambiente/ambiente_img5.jpg</imagem>
+		<descr>Festa da Árvore em 1913</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>6</idx>
+		<imagem>imagens/ambiente/ambiente_img6.jpg</imagem>
+		<descr>Festa da Árvore em 1913</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>7</idx>
+		<imagem>imagens/ambiente/ambiente_img7.jpg</imagem>
+		<descr>Festa da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>8</idx>
+		<imagem>imagens/ambiente/ambiente_img8.jpg</imagem>
+		<descr>Festa da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>9</idx>
+		<imagem>imagens/ambiente/ambiente_img9.jpg</imagem>
+		<descr>Festa da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>10</idx>
+		<imagem>imagens/ambiente/ambiente_img10.jpg</imagem>
+		<descr>Festa da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>11</idx>
+		<imagem>imagens/ambiente/ambiente_img11.jpg</imagem>
+		<descr>Festa da Árvore</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>13</idx>
+		<imagem>imagens/ambiente/ambiente_img13.jpg</imagem>
+		<descr>Jornal "O Século Agrícola"</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>14</idx>
+		<imagem>imagens/ambiente/ambiente_img14.jpg</imagem>
+		<descr>Jornal "O Século Agrícola"</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

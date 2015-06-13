@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artigo>
+<foto>
+		<idx>1</idx>
+		<imagem>imagens/transportes_img8.jpg</imagem>
+		<descr>Caminhos de ferro</descr>
+		<creditos></creditos>
+	</foto>	
+<foto>
+
+		<idx>2</idx>
+		<imagem>imagens/transportes_img1.jpg</imagem>
+		<descr>Carro em carris puxado a cavalos</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/transportes_img3.jpg</imagem>
+		<descr>A revolução nos transportes passou a permitir a entrega de bens perecíveis com mais rapidez</descr>
+		<creditos></creditos>
+	</foto>
+<foto>
+		<idx>4</idx>
+		<imagem>imagens/transportes_img4.jpg</imagem>
+		<descr>A imprensa adere também à revolução dos transportes</descr>
+		<creditos></creditos>
+	</foto>	
+<foto>
+		<idx>5</idx>
+		<imagem>imagens/transportes_img5.jpg</imagem>
+		<descr>Surgem os primeiros sistemas de transporte público em Portugal</descr>
+		<creditos></creditos>
+	</foto>	
+<foto>
+		<idx>6</idx>
+		<imagem>imagens/transportes_img7.jpg</imagem>
+		<descr>As primeiras corridas de carros</descr>
+		<creditos></creditos>
+	</foto>	
+
+
+</artigo>

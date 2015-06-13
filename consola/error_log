@@ -1,0 +1,1 @@
+[03-Mar-2015 09:55:50 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/leonelse/public_html/portfolio/republica/consola/index.php on line 22

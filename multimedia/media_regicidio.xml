@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--TYPE 1-Imagem; 2-FILME; 3-SWF -->
+<data>
+	<entry>
+		<id>2</id>
+		<type>1</type>
+		<file>img1.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>regicidio</location>
+		<title>Regicídio de 1908</title>
+		<text></text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>2</id>
+		<type>1</type>
+		<file>img2.png</file>
+		<width>474</width>
+		<height>356</height>
+		<location>regicidio</location>
+		<title>Regicídio de 1908</title>
+		<text>A Rainha D. Amélia fustiga os regicidas com um ramo de flores</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>3</id>
+		<type>1</type>
+		<file>img3.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>regicidio</location>
+		<title>Regicídio de 1908</title>
+		<text>Funeral</text>
+		<link>2</link>
+	</entry>
+	<entry>
+		<id>4</id>
+		<type>1</type>
+		<file>img4.jpg</file>
+		<width>474</width>
+		<height>356</height>
+		<location>regicidio</location>
+		<title>Regicídio de 1908</title>
+		<text>Funeral</text>
+		<link>2</link>
+	</entry>
+</data>

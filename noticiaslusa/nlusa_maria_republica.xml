@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/maria_republica/mariarepublica_img2.jpg</imagem>
+		<descr>Maria República acompanhada pela mãe e pelo filho</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/maria_republica/mariarepublica_img1.jpg</imagem>
+		<descr>Maria República deve o nome ao avô materno, que o escolheu em homenagem aos que depuseram a monarquia em Portugal</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/maria_republica/mariarepublica_img3.jpg</imagem>
+		<descr>Bilhete de identidade de Maria República</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

@@ -1,0 +1,42 @@
+@charset "utf-8";
+.text_rodape {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.navegacao {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+}
+
+.topico{
+	font-family: Impact, Calibri, Arial, Verdana, Helvetica, sans-serif;
+	font-size: medium;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	text-decoration: none;
+}
+
+.texto_white {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.texto_small {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #000000;
+	text-decoration: none;
+}

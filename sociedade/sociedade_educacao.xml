@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artigo>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/img1.jpg</imagem>
+		<descr>O ensino</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/img2.jpg</imagem>
+		<descr>O ensino</descr>
+		<creditos></creditos>
+	</foto>
+</artigo>

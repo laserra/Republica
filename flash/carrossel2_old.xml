@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<evento>
+		<imagem>imgs/img1.png</imagem>
+		<seccao>Instituições</seccao>
+		<cor>0xBA141A</cor>
+		<descr>Academia de Ciências</descr>
+		<link></link>
+	</evento>
+	<evento>
+		<imagem>imgs/img2.png</imagem>
+		<seccao>Figuras</seccao>
+		<cor>0x008075</cor>
+		<descr>D. Manuel II</descr>
+		<link></link>
+	</evento>
+	<evento>
+		<imagem>imgs/img3.png</imagem>
+		<seccao>Sociedade</seccao>
+		<cor>0x8C0052</cor>
+		<descr>Teatro - Coimbra</descr>
+		<link></link>
+	</evento>
+	<evento>
+		<imagem>imgs/img4.png</imagem>
+		<seccao>Figuras</seccao>
+		<cor>0x008075</cor>
+		<descr>D. Manuel II</descr>
+		<link></link>
+	</evento>
+	<evento>
+		<imagem>imgs/img5.png</imagem>
+		<seccao>Datas</seccao>
+		<cor>0xCC7B16</cor>
+		<descr>Regicídio de 1908</descr>
+		<link></link>
+	</evento>
+	<evento>
+		<imagem>imgs/img6.png</imagem>
+		<seccao>Figuras</seccao>
+		<cor>0x008075</cor>
+		<descr>Manuel D'Arriaga</descr>
+		<link></link>
+	</evento>
+</data>

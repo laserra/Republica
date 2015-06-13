@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<artigo>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/figuras_candidoreis_img1.jpg</imagem>
+		<descr>Postal de homenagem a Cândido dos Reis e Miguel Bombarda, de 1910</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/figuras_candidoreis_img3.jpg</imagem>
+		<descr>Cândido dos Reis preferiu suicidar-se a ter que encarar a derrota</descr>
+		<creditos></creditos>
+	</foto>
+
+</artigo>

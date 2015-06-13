@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<republica>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/transportes/img1.jpg</imagem>
+		<titulo>Carro em carris</titulo>
+		<texto>Carro em carris puxado a cavalos</texto>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/transportes/img2.jpg</imagem>
+		<titulo>Paragem</titulo>
+		<texto>Aspecto das primeiras paragens dos carros em carris</texto>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/transportes/img3.jpg</imagem>
+		<titulo>Carro Frigorífico</titulo>
+		<texto>A revolução nos transportes passou a permitir a entrega de bens perecíveis com mais rapidez</texto>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/transportes/img4.jpg</imagem>
+		<titulo>Carro reportagem</titulo>
+		<texto>A imprensa adere também à revolução dos transportes</texto>
+	</foto>
+	<foto>
+		<idx>5</idx>
+		<imagem>imagens/transportes/img5.jpg</imagem>
+		<titulo>Transportes públicos</titulo>
+		<texto>Surgem os primeiros sistemas de transporte público em Portugal</texto>
+	</foto>
+	<foto>
+		<idx>6</idx>
+		<imagem>imagens/transportes/img6.jpg</imagem>
+		<titulo>Desporto</titulo>
+		<texto>Realizam-se corridas de automóveis</texto>
+	</foto>
+	<foto>
+		<idx>7</idx>
+		<imagem>imagens/transportes/img7.jpg</imagem>
+		<titulo>Desporto</titulo>
+		<texto>Realizam-se corridas de automóveis</texto>
+	</foto>
+	<foto>
+		<idx>8</idx>
+		<imagem>imagens/transportes/img8.jpg</imagem>
+		<titulo>Caminhos de Ferro</titulo>
+		<texto>Dá-se um grande impulso na ampliação e modernização dos caminhos de ferro</texto>
+	</foto>
+</republica>

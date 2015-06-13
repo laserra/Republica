@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/congresso_setubal/congresso_republicano_1.jpg</imagem>
+		<descr></descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/congresso_setubal/congresso_republicano_2.jpg</imagem>
+		<descr></descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/congresso_setubal/congresso_republicano_3.jpg</imagem>
+		<descr></descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/congresso_setubal/congresso_republicano_4.jpg</imagem>
+		<descr></descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/data_igreja_img1.jpg</imagem>
+		<descr>A lei da separação da Igreja do Estado foi publicada a 20 de abril de 1911</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/data_igreja_img2.jpg</imagem>
+		<descr>A Igreja dominava várias esferas da sociedade. Os republicanos assumiram como orientação estratégica o seu desmantelamento</descr>
+		<creditos></creditos>
+		</foto>
+
+
+	<foto>
+		<idx>4</idx>		<imagem>imagens/data_igreja_img4.jpg</imagem>
+		<descr>Afonso Costa, que geria a pasta da Justiça no governo provisório, foi apelidado de "mata-frades" pela publicação da Lei da Separação da Igreja do Estado</descr>
+		<creditos></creditos>
+	</foto>
+	<foto>
+		<idx>5</idx>		<imagem>imagens/data_igreja_img5.jpg</imagem>
+		<descr>A Igreja dominava o ensino, o registo civil, a saúde, a acção social e amplas esferas do Estado e exercia o culto em situação de monopólio constitucional</descr>
+		<creditos></creditos>
+	</foto>	
+
+</noticias>

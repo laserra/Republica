@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+
+
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/busto/busto_img2.jpg</imagem>
+		<descr>Busto da República de João da Nova</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/busto/busto_img4.jpg</imagem>
+		<descr>Joaquim Pulga, descendente de Ilga Pulga, que serviu de modelo para o primeiro busto da República</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/busto/busto_img3.jpg</imagem>
+		<descr>Busto da República</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/busto/busto_img1.jpg</imagem>
+		<descr>Busto da República</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/ericeira/ericeira_img1.jpg</imagem>
+		<descr>Clique para ver o vídeo</descr>
+		<creditos></creditos>		<link>http://www.republica2010.com/multimedia/multimedia.php?id=14</link>
+	</foto>
+	<foto>
+		<idx>2</idx>
+		<imagem>imagens/ericeira/ericeira_img2.jpg</imagem>
+		<descr>José Caré, último sobrevivente dos cidadãos que assistiram à visita da Rainha D. Amélia à Ericeira em 1945</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>3</idx>
+		<imagem>imagens/ericeira/ericeira_img3.jpg</imagem>
+		<descr>A família real partiu da praia dos pescadores na Ericeira</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/ericeira/ericeira_img4.jpg</imagem>
+		<descr>Em 1960, um particular colocou uma placa na capela a recordar a partida da família real</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	
+</noticias>

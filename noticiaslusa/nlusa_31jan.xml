@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<noticias>
+	<foto>
+		<idx>1</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img1.jpg</imagem>
+		<descr>31 de Janeiro no Porto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>4</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img4.jpg</imagem>
+		<descr>A bandeira da revolta, que foi hasteada na câmara municipal</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>5</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img5.jpg</imagem>
+		<descr>Igreja de Santo Ildefonso</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>6</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img6.jpg</imagem>
+		<descr>Alves da Veiga</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>7</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img7.jpg</imagem>
+		<descr>Bombardeamento da câmara municipal pelas tropas fiéis ao governo</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>8</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img8.jpg</imagem>
+		<descr>Confrontos</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>9</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img9.jpg</imagem>
+		<descr>Conselho de guerra a bordo do Índia</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>10</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img10.jpg</imagem>
+		<descr>Encontro dos revoltosos com as tropas do governo</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>11</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img11.jpg</imagem>
+		<descr>Levantando os feridos</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>12</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img12.jpg</imagem>
+		<descr>Na Rua de Santo António</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>13</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img13.jpg</imagem>
+		<descr>Os prisioneiros a bordo</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>15</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img15.jpg</imagem>
+		<descr>Praça D. Pedro, Porto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>17</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img17.jpg</imagem>
+		<descr>Quartel de Infantaria 18 e campo de regeneração onde se reuniram tropas sublevadas na madrugada de 31 de Janeiro</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>18</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img18.jpg</imagem>
+		<descr>Revoltosos presos a bordo do Índia</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>19</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img19.jpg</imagem>
+		<descr>Revoltosos presos no vapor Moçambique</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>20</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img20.jpg</imagem>
+		<descr>Santos Cardoso</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+	<foto>
+		<idx>21</idx>
+		<imagem>imagens/31_de_janeiro/31jan_img21.jpg</imagem>
+		<descr>Túmulo das vítimas no Cemitério do Repouso, no Porto</descr>
+		<creditos></creditos>
+		<link></link>
+	</foto>
+</noticias>
